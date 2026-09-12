@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/mtcmetac",
   "VITE_SEO_SITE_NAME": "Metac Hex",
   "VITE_SEO_SITE_DESCRIPTION": "next-generation crypto exchange, Hex",
-  "VITE_SEO_SITE_URL": "https://metac-dex.con",
+  "VITE_SEO_SITE_URL": "https://metac-dex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@handle",
